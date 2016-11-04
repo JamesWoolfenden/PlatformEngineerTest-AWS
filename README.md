@@ -8,7 +8,7 @@ Do you think you have the DevOps skills to work in a fast paced technical consul
 
 ## Results
 
-Commit your changes to a clone of this repository and send us the link, we will want to look over your work, and we may ask you to talk through your solution when we speak to you.
+Commit your changes to a fork of this repository and send us the link, we will want to look over your work, and we may ask you to talk through your solution when we speak to you.
 
   [amido]: https://www.amido.com/
   [package]: Amido.PlatformEngineer.Test.war
